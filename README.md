@@ -1,2 +1,1 @@
-# AWS
-DSTI AWS Project
+#DSTI
