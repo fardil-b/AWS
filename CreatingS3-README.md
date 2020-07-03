@@ -1,4 +1,4 @@
-# Creating S3 Bucket And Uploading Content
+# Creating an S3 bucket for static website hosting
 
 ### Log in to your AWS Console and navigate to S3 console
 
