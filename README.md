@@ -1,1 +1,1 @@
-# AMAZON AWS DSTI
+# AMAZON AWS DSTI Project
