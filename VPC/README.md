@@ -20,3 +20,17 @@
 
 ### Repeat the same procedure for second subnet and name it as private
 ![image](https://user-images.githubusercontent.com/61830624/86522246-3fce2f80-be5b-11ea-8f0f-20e36811cea3.png)
+
+### Create a Network Acess Control List
+#### A network access control list (ACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets.
+* Select a name for your ACL
+* Select your VPC
+![image](https://user-images.githubusercontent.com/61830624/86530678-f6153180-beba-11ea-83e8-b58f05502aa4.png)
+
+### Here you will have the option to associatw the subnet as well as define the rule for this Network ACL
+![image](https://user-images.githubusercontent.com/61830624/86530822-59ec2a00-bebc-11ea-83d2-04cd90701196.png)
+
+### First let's associate the subnet and select Public subnet
+![image](https://user-images.githubusercontent.com/61830624/86531258-fbc14600-bebf-11ea-8760-1e88ebc2bc7f.png)
+
+
