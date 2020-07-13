@@ -1,4 +1,4 @@
-# Creating and Subscribing to SNS Topics
+# Creating and Subscribing to SNS Topics, Adding SNS event for S3 bucket
 
 ## What is SNS?
 * SNS stands for Simple Notification Service.
@@ -38,5 +38,9 @@ Put eveyone in topic policy
 Copy your **ARN** then go to S3
 ![image](https://user-images.githubusercontent.com/61830624/87317335-27c77180-c527-11ea-9a51-ada75dfaca9d.png)
 
+Go to S3 bucket, then Events and Edit Notification
+![image](https://user-images.githubusercontent.com/61830624/87318931-4a5a8a00-c529-11ea-9251-556602486ea6.png)
 
+![image](https://user-images.githubusercontent.com/61830624/87319681-3a8f7580-c52a-11ea-970d-b58727aa3b84.png)
 
+Whenever someone add an object to this bucket or delete any object from, it should raise this Events and you should get a n email notification
