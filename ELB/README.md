@@ -5,6 +5,7 @@ ELB supports 3 types of load balancers:
 * Application Load Balancers
 * Network Load Balancers
 * Classic Load Balancers
+![image](https://user-images.githubusercontent.com/61830624/87482182-2b471f80-c631-11ea-9324-3b05108de980.png)
 
 Each load balancer is configured differently.
 
