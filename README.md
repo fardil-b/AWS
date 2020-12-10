@@ -1,6 +1,7 @@
 # AMAZON AWS DSTI Project
 
-Projects for implementing several Amazon AWS products and servises and also for preparing for the AWS Certified Solutions Architect Certification
+## - Implementation of several Amazon AWS products and services  
+## - Preparation for AWS Certified Solutions Architect Certification
 
 * ## S3 Web Hosting
 create S3 bucket for static website hosting
@@ -13,3 +14,9 @@ Create MySQL database from Amazon RDS and use it from MySQL Workbench
 
 * ## ApacheWebServer-PHP 
 Host PHP page that display it private IP on Apache webserver
+
+* ## Apache Web Server
+Install Apache Web Server and PHP and add a simple web page that print the public IP adress of the instance
+
+* ## Application Load Balancer
+Install a second Apache Web Server on a different instance with the same web page. Add those two servers to an Application Load Balancer
